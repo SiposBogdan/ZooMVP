@@ -12,7 +12,11 @@ This project demonstrates clean software architecture and design by implementing
 - **View**: GUI interface built with Swing
 - **Presenter**: The mediator between View and Model
 
-It supports functionalities such as adding, modifying, deleting, filtering, and exporting animals and their specimens.
+🔧 The application allows users to:
+- Add / update / delete animals and specimens
+- Filter and search by attributes
+- Export data to CSV and DOCX
+- Attach images to specimens
 
 ---
 
@@ -61,6 +65,25 @@ Contains the mediators that handle user interaction logic:
 
 ---
 
+## 🖼️ Interface Preview
+
+### 📋 Animals Table
+
+This is how the Animals tab appears in the application:
+![animaleGUI](https://github.com/user-attachments/assets/f6682dfc-c931-474e-8a6c-1e9b4b663a94)
+
+
+---
+
+### 🐾 Specimens Table
+
+This is how the Specimens tab appears in the application:
+![exemplareGUI](https://github.com/user-attachments/assets/4eb30de3-7bfe-4053-8342-fccb885e27c8)
+
+
+
+---
+
 ## 📦 Packages Overview
 
 ```plaintext
@@ -87,3 +110,4 @@ view
 ├── ZooDesktopGUI.java
 ├── UpdateAnimalDialog.java
 └── UpdateExemplarDialog.java
+
