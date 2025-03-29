@@ -1,0 +1,7 @@
+ID,Nume,Categorie,Alimentatie,Habitat,Greutate,Varsta,Viteza
+1,Sturion,Peste,Omnivor,Acvatic,40.0,4,4
+2,Dodo,Pasare,Ierbivor,Terestru,23.0,9,9
+3,Girafa,Mamifer,Ierbivor,Terestru,2000.0,10,10
+4,Ras,Mamifer,Carnivor,Terestru,100.0,6,6
+5,Pinguin,Pasare,Carnivor,Terestru,70.0,6,6
+6,Boa,Reptila,Carnivor,Terestru,30.0,15,15
